@@ -12,7 +12,7 @@ using ShortURL.API.Domain.DbContexts;
 namespace ShortURL.API.Migrations
 {
     [DbContext(typeof(ShortUrlDbContext))]
-    [Migration("20250411021323_init")]
+    [Migration("20250411111531_init")]
     partial class init
     {
         /// <inheritdoc />
@@ -262,7 +262,7 @@ namespace ShortURL.API.Migrations
                         {
                             Id = 1,
                             Content = "ShortenedUrl is a URL shortening service that allows users to create short, easy-to-share links for long URLs. It is designed to make sharing links easier and more convenient, especially on social media platforms where character limits may apply.",
-                            CreatedAt = new DateTime(2025, 4, 11, 2, 13, 23, 98, DateTimeKind.Utc).AddTicks(4502),
+                            CreatedAt = new DateTime(2025, 4, 11, 11, 15, 30, 662, DateTimeKind.Utc).AddTicks(5397),
                             PageTag = "about-view",
                             Title = "About ShortenedUrl"
                         });

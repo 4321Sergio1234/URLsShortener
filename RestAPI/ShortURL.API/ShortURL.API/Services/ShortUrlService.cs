@@ -75,14 +75,6 @@ namespace ShortURL.API.Services
                 throw new EntityNotFoundException($"Short URL with id {shortUrlId} not found");
             }
 
-            var user = await _userManager.FindByIdAsync(shortUrl.UserId.ToString());
-
-
-            if (user == null || !(await _userManager.IsInRoleAsync(user, "Admin")))
-            {
-                throw new UnauthorizedAccessException($"You are not authorized to delete this short URL");
-            }
-
             shortUrl = await _shortUrlRepository.DeleteByIdAsync(shortUrlId);
 
             return _mapper.Map<ShortUrlDto>(shortUrl);

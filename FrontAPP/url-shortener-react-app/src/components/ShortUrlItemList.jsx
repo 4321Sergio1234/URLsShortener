@@ -8,7 +8,7 @@ export default function ShortUrlItemList({shortUrlItems}){
     return (
         <div className={classes['url-list-container']}>
             {(userData && userData.isLogin) && <Link to='new' className={classes.addButton}>Додати</Link>}
-            <h2 className={classes['url-list-title']}>Мої посилання</h2>
+            <h2 className={classes['url-list-title']}>Посилання</h2>
             <ul className={classes['url-list']}>
                 {shortUrlItems.map(item => (
                     <ShortUrlItem key={item.id} id={item.id} shortenedUrl={item.shortenedUrl} originalUrl={item.originalUrl} />

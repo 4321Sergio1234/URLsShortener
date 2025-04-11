@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\ShortURL.API.csproj": {}
+    "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\ShortURL.API.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\ShortURL.API.csproj": {
+    "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\ShortURL.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\ShortURL.API.csproj",
+        "projectUniqueName": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\ShortURL.API.csproj",
         "projectName": "ShortURL.API",
-        "projectPath": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\ShortURL.API.csproj",
+        "projectPath": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\ShortURL.API.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\obj\\",
+        "outputPath": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -219,7 +219,7 @@ namespace ShortURL.API.Migrations
             migrationBuilder.InsertData(
                 table: "StaticContents",
                 columns: new[] { "Id", "Content", "CreatedAt", "PageTag", "Title" },
-                values: new object[] { 1, "ShortenedUrl is a URL shortening service that allows users to create short, easy-to-share links for long URLs. It is designed to make sharing links easier and more convenient, especially on social media platforms where character limits may apply.", new DateTime(2025, 4, 11, 2, 13, 23, 98, DateTimeKind.Utc).AddTicks(4502), "about-view", "About ShortenedUrl" });
+                values: new object[] { 1, "ShortenedUrl is a URL shortening service that allows users to create short, easy-to-share links for long URLs. It is designed to make sharing links easier and more convenient, especially on social media platforms where character limits may apply.", new DateTime(2025, 4, 11, 11, 15, 30, 662, DateTimeKind.Utc).AddTicks(5397), "about-view", "About ShortenedUrl" });
 
             migrationBuilder.InsertData(
                 table: "AspNetUserRoles",

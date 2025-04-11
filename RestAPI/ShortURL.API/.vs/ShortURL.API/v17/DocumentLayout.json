@@ -1,133 +1,140 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\",
+  "WorkspaceRootPath": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\restapi\\shorturl.api\\shorturl.api\\domain\\dbcontexts\\shorturldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|solutionrelative:shorturl.api\\domain\\dbcontexts\\shorturldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\urlsshortener\\restapi\\shorturl.api\\shorturl.api\\services\\shorturlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|solutionrelative:shorturl.api\\services\\shorturlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\restapi\\shorturl.api\\shorturl.api\\domain\\configurations\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|solutionrelative:shorturl.api\\domain\\configurations\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\restapi\\shorturl.api\\shorturl.api\\domain\\configurations\\staticcontentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|solutionrelative:shorturl.api\\domain\\configurations\\staticcontentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\restapi\\shorturl.api\\shorturl.api\\domain\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|solutionrelative:shorturl.api\\domain\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\restapi\\shorturl.api\\shorturl.api\\domain\\configurations\\userrolesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|solutionrelative:shorturl.api\\domain\\configurations\\userrolesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\restapi\\shorturl.api\\shorturl.api\\dtos\\staticcontentdtos\\staticcontentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|solutionrelative:shorturl.api\\dtos\\staticcontentdtos\\staticcontentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\restapi\\shorturl.api\\shorturl.api\\dtos\\userdtos\\userregisterresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\urlsshortener\\restapi\\shorturl.api\\shorturl.api\\dtos\\userdtos\\userregisterresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|solutionrelative:shorturl.api\\dtos\\userdtos\\userregisterresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\restapi\\shorturl.api\\shorturl.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\urlsshortener\\restapi\\shorturl.api\\shorturl.api\\dtos\\userdtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|solutionrelative:shorturl.api\\dtos\\userdtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\urlsshortener\\restapi\\shorturl.api\\shorturl.api\\controllers\\staticcontentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|solutionrelative:shorturl.api\\controllers\\staticcontentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\urlsshortener\\restapi\\shorturl.api\\shorturl.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|solutionrelative:shorturl.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\urlsshortener\\restapi\\shorturl.api\\shorturl.api\\controllers\\shorturlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|solutionrelative:shorturl.api\\controllers\\shorturlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\urlsshortener\\restapi\\shorturl.api\\shorturl.api\\domain\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|solutionrelative:shorturl.api\\domain\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\urlsshortener\\restapi\\shorturl.api\\shorturl.api\\domain\\configurations\\staticcontentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|solutionrelative:shorturl.api\\domain\\configurations\\staticcontentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\urlsshortener\\restapi\\shorturl.api\\shorturl.api\\domain\\configurations\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|solutionrelative:shorturl.api\\domain\\configurations\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\urlsshortener\\restapi\\shorturl.api\\shorturl.api\\domain\\dbcontexts\\shorturldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|solutionrelative:shorturl.api\\domain\\dbcontexts\\shorturldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\Migrations\\20250411111531_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ShortURL.API\\Migrations\\20250411111531_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\urlsshortener\\restapi\\shorturl.api\\shorturl.api\\domain\\configurations\\userrolesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|solutionrelative:shorturl.api\\domain\\configurations\\userrolesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\urlsshortener\\restapi\\shorturl.api\\shorturl.api\\dtos\\staticcontentdtos\\staticcontentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|solutionrelative:shorturl.api\\dtos\\staticcontentdtos\\staticcontentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ShortUrlDb/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\restapi\\shorturl.api\\shorturl.api\\controllers\\staticcontentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|solutionrelative:shorturl.api\\controllers\\staticcontentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\restapi\\shorturl.api\\shorturl.api\\controllers\\shorturlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|solutionrelative:shorturl.api\\controllers\\shorturlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\restapi\\shorturl.api\\shorturl.api\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\urlsshortener\\restapi\\shorturl.api\\shorturl.api\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|solutionrelative:shorturl.api\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\restapi\\shorturl.api\\shorturl.api\\repositories\\staticcontentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\urlsshortener\\restapi\\shorturl.api\\shorturl.api\\repositories\\staticcontentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|solutionrelative:shorturl.api\\repositories\\staticcontentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\restapi\\shorturl.api\\shorturl.api\\services\\staticcontentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\urlsshortener\\restapi\\shorturl.api\\shorturl.api\\services\\staticcontentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|solutionrelative:shorturl.api\\services\\staticcontentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\restapi\\shorturl.api\\shorturl.api\\services\\shorturlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|solutionrelative:shorturl.api\\services\\shorturlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\restapi\\shorturl.api\\shorturl.api\\domain\\models\\staticcontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\urlsshortener\\restapi\\shorturl.api\\shorturl.api\\domain\\models\\staticcontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|solutionrelative:shorturl.api\\domain\\models\\staticcontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\restapi\\shorturl.api\\shorturl.api\\dtos\\userdtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\urlsshortener\\restapi\\shorturl.api\\shorturl.api\\dtos\\userdtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|solutionrelative:shorturl.api\\dtos\\userdtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\restapi\\shorturl.api\\shorturl.api\\repositories\\shorturlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\urlsshortener\\restapi\\shorturl.api\\shorturl.api\\repositories\\shorturlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|solutionrelative:shorturl.api\\repositories\\shorturlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\restapi\\shorturl.api\\shorturl.api\\repositories\\interface\\istaticcontentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\urlsshortener\\restapi\\shorturl.api\\shorturl.api\\repositories\\interface\\istaticcontentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|solutionrelative:shorturl.api\\repositories\\interface\\istaticcontentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\restapi\\shorturl.api\\shorturl.api\\dtos\\shorturldtos\\createshorturldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\urlsshortener\\restapi\\shorturl.api\\shorturl.api\\dtos\\shorturldtos\\createshorturldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|solutionrelative:shorturl.api\\dtos\\shorturldtos\\createshorturldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\restapi\\shorturl.api\\shorturl.api\\dtos\\shorturldtos\\shorturldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\urlsshortener\\restapi\\shorturl.api\\shorturl.api\\dtos\\shorturldtos\\shorturldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|solutionrelative:shorturl.api\\dtos\\shorturldtos\\shorturldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\restapi\\shorturl.api\\shorturl.api\\dtos\\shorturldtos\\deleteshorturldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\urlsshortener\\restapi\\shorturl.api\\shorturl.api\\dtos\\shorturldtos\\deleteshorturldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|solutionrelative:shorturl.api\\dtos\\shorturldtos\\deleteshorturldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\restapi\\shorturl.api\\shorturl.api\\domain\\models\\shorturl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\urlsshortener\\restapi\\shorturl.api\\shorturl.api\\domain\\models\\shorturl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|solutionrelative:shorturl.api\\domain\\models\\shorturl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\restapi\\shorturl.api\\shorturl.api\\dtos\\configurations\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\urlsshortener\\restapi\\shorturl.api\\shorturl.api\\dtos\\configurations\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|solutionrelative:shorturl.api\\dtos\\configurations\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\restapi\\shorturl.api\\shorturl.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\urlsshortener\\restapi\\shorturl.api\\shorturl.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|solutionrelative:shorturl.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\restapi\\shorturl.api\\shorturl.api\\services\\interface\\ishorturlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\urlsshortener\\restapi\\shorturl.api\\shorturl.api\\services\\interface\\ishorturlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|solutionrelative:shorturl.api\\services\\interface\\ishorturlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\restapi\\shorturl.api\\shorturl.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\urlsshortener\\restapi\\shorturl.api\\shorturl.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|solutionrelative:shorturl.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\restapi\\shorturl.api\\shorturl.api\\services\\interface\\istaticcontentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\urlsshortener\\restapi\\shorturl.api\\shorturl.api\\services\\interface\\istaticcontentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|solutionrelative:shorturl.api\\services\\interface\\istaticcontentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\restapi\\shorturl.api\\shorturl.api\\dtos\\shorturldtos\\viewrestrictedshorturldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\urlsshortener\\restapi\\shorturl.api\\shorturl.api\\dtos\\shorturldtos\\viewrestrictedshorturldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|solutionrelative:shorturl.api\\dtos\\shorturldtos\\viewrestrictedshorturldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\restapi\\shorturl.api\\shorturl.api\\exceptions\\configurations\\errorresponce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\urlsshortener\\restapi\\shorturl.api\\shorturl.api\\exceptions\\configurations\\errorresponce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|solutionrelative:shorturl.api\\exceptions\\configurations\\errorresponce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\restapi\\shorturl.api\\shorturl.api\\domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|c:\\projects\\dotnet\\shorturl\\urlsshortener\\restapi\\shorturl.api\\shorturl.api\\domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{240639F2-D506-4739-BCA0-EAD1D496C47C}|ShortURL.API\\ShortURL.API.csproj|solutionrelative:shorturl.api\\domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Migrations\\20250410174047_fixOrigUrlLength.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ShortURL.API\\Migrations\\20250410174047_fixOrigUrlLength.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Migrations\\20250410174047_fixOrigUrlLength.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -137,7 +144,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 359,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -145,11 +152,128 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRegisterDto.cs",
+              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\DTOs\\UserDtos\\UserRegisterDto.cs",
+              "RelativeDocumentMoniker": "ShortURL.API\\DTOs\\UserDtos\\UserRegisterDto.cs",
+              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\DTOs\\UserDtos\\UserRegisterDto.cs",
+              "RelativeToolTip": "ShortURL.API\\DTOs\\UserDtos\\UserRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T11:36:07.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\Domain\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "ShortURL.API\\Domain\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\Domain\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "ShortURL.API\\Domain\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T02:12:57.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShortUrlController.cs",
+              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\Controllers\\ShortUrlController.cs",
+              "RelativeDocumentMoniker": "ShortURL.API\\Controllers\\ShortUrlController.cs",
+              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\Controllers\\ShortUrlController.cs",
+              "RelativeToolTip": "ShortURL.API\\Controllers\\ShortUrlController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:24:34.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ShortURL.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ShortURL.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T19:28:02.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StaticContentController.cs",
+              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\Controllers\\StaticContentController.cs",
+              "RelativeDocumentMoniker": "ShortURL.API\\Controllers\\StaticContentController.cs",
+              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\Controllers\\StaticContentController.cs",
+              "RelativeToolTip": "ShortURL.API\\Controllers\\StaticContentController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T01:10:31.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRegisterResultDto.cs",
+              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\DTOs\\UserDtos\\UserRegisterResultDto.cs",
+              "RelativeDocumentMoniker": "ShortURL.API\\DTOs\\UserDtos\\UserRegisterResultDto.cs",
+              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\DTOs\\UserDtos\\UserRegisterResultDto.cs",
+              "RelativeToolTip": "ShortURL.API\\DTOs\\UserDtos\\UserRegisterResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T19:51:05.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ShortUrlService.cs",
+              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\Services\\ShortUrlService.cs",
+              "RelativeDocumentMoniker": "ShortURL.API\\Services\\ShortUrlService.cs",
+              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\Services\\ShortUrlService.cs",
+              "RelativeToolTip": "ShortURL.API\\Services\\ShortUrlService.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAwwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T17:05:48.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StaticContentConfiguration.cs",
+              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\Domain\\Configurations\\StaticContentConfiguration.cs",
+              "RelativeDocumentMoniker": "ShortURL.API\\Domain\\Configurations\\StaticContentConfiguration.cs",
+              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\Domain\\Configurations\\StaticContentConfiguration.cs",
+              "RelativeToolTip": "ShortURL.API\\Domain\\Configurations\\StaticContentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T01:41:16.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RoleConfiguration.cs",
+              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\Domain\\Configurations\\RoleConfiguration.cs",
+              "RelativeDocumentMoniker": "ShortURL.API\\Domain\\Configurations\\RoleConfiguration.cs",
+              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\Domain\\Configurations\\RoleConfiguration.cs",
+              "RelativeToolTip": "ShortURL.API\\Domain\\Configurations\\RoleConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T02:13:00.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ShortUrlDbContext.cs",
-              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Domain\\DbContexts\\ShortUrlDbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\Domain\\DbContexts\\ShortUrlDbContext.cs",
               "RelativeDocumentMoniker": "ShortURL.API\\Domain\\DbContexts\\ShortUrlDbContext.cs",
-              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Domain\\DbContexts\\ShortUrlDbContext.cs",
+              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\Domain\\DbContexts\\ShortUrlDbContext.cs",
               "RelativeToolTip": "ShortURL.API\\Domain\\DbContexts\\ShortUrlDbContext.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAA1wCEAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -158,47 +282,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RoleConfiguration.cs",
-              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Domain\\Configurations\\RoleConfiguration.cs",
-              "RelativeDocumentMoniker": "ShortURL.API\\Domain\\Configurations\\RoleConfiguration.cs",
-              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Domain\\Configurations\\RoleConfiguration.cs",
-              "RelativeToolTip": "ShortURL.API\\Domain\\Configurations\\RoleConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "20250411111531_init.cs",
+              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\Migrations\\20250411111531_init.cs",
+              "RelativeDocumentMoniker": "ShortURL.API\\Migrations\\20250411111531_init.cs",
+              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\Migrations\\20250411111531_init.cs",
+              "RelativeToolTip": "ShortURL.API\\Migrations\\20250411111531_init.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T02:13:00.965Z"
+              "WhenOpened": "2025-04-11T11:15:31.746Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StaticContentConfiguration.cs",
-              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Domain\\Configurations\\StaticContentConfiguration.cs",
-              "RelativeDocumentMoniker": "ShortURL.API\\Domain\\Configurations\\StaticContentConfiguration.cs",
-              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Domain\\Configurations\\StaticContentConfiguration.cs",
-              "RelativeToolTip": "ShortURL.API\\Domain\\Configurations\\StaticContentConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T01:41:16.961Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserConfiguration.cs",
-              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Domain\\Configurations\\UserConfiguration.cs",
-              "RelativeDocumentMoniker": "ShortURL.API\\Domain\\Configurations\\UserConfiguration.cs",
-              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Domain\\Configurations\\UserConfiguration.cs",
-              "RelativeToolTip": "ShortURL.API\\Domain\\Configurations\\UserConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T02:12:57.8Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "UserRolesConfiguration.cs",
-              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Domain\\Configurations\\UserRolesConfiguration.cs",
+              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\Domain\\Configurations\\UserRolesConfiguration.cs",
               "RelativeDocumentMoniker": "ShortURL.API\\Domain\\Configurations\\UserRolesConfiguration.cs",
-              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Domain\\Configurations\\UserRolesConfiguration.cs",
+              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\Domain\\Configurations\\UserRolesConfiguration.cs",
               "RelativeToolTip": "ShortURL.API\\Domain\\Configurations\\UserRolesConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -206,11 +307,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "StaticContentDto.cs",
-              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\DTOs\\StaticContentDtos\\StaticContentDto.cs",
+              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\DTOs\\StaticContentDtos\\StaticContentDto.cs",
               "RelativeDocumentMoniker": "ShortURL.API\\DTOs\\StaticContentDtos\\StaticContentDto.cs",
-              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\DTOs\\StaticContentDtos\\StaticContentDto.cs",
+              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\DTOs\\StaticContentDtos\\StaticContentDto.cs",
               "RelativeToolTip": "ShortURL.API\\DTOs\\StaticContentDtos\\StaticContentDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -218,19 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserRegisterResultDto.cs",
-              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\DTOs\\UserDtos\\UserRegisterResultDto.cs",
-              "RelativeDocumentMoniker": "ShortURL.API\\DTOs\\UserDtos\\UserRegisterResultDto.cs",
-              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\DTOs\\UserDtos\\UserRegisterResultDto.cs",
-              "RelativeToolTip": "ShortURL.API\\DTOs\\UserDtos\\UserRegisterResultDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T19:51:05.286Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "dbo.AspNetUsers.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ShortUrlDb/True/SqlTable/dbo.AspNetUsers.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ShortUrlDb/True/SqlTable/dbo.AspNetUsers.sql",
@@ -239,47 +328,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "ShortURL.API\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "ShortURL.API\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T19:28:02.648Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ShortUrlController.cs",
-              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Controllers\\ShortUrlController.cs",
-              "RelativeDocumentMoniker": "ShortURL.API\\Controllers\\ShortUrlController.cs",
-              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Controllers\\ShortUrlController.cs",
-              "RelativeToolTip": "ShortURL.API\\Controllers\\ShortUrlController.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAowDMAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T21:24:34.592Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "StaticContentController.cs",
-              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Controllers\\StaticContentController.cs",
-              "RelativeDocumentMoniker": "ShortURL.API\\Controllers\\StaticContentController.cs",
-              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Controllers\\StaticContentController.cs",
-              "RelativeToolTip": "ShortURL.API\\Controllers\\StaticContentController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T01:10:31.129Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Repositories\\Repository.cs",
+              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\Repositories\\Repository.cs",
               "RelativeDocumentMoniker": "ShortURL.API\\Repositories\\Repository.cs",
-              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\Repositories\\Repository.cs",
               "RelativeToolTip": "ShortURL.API\\Repositories\\Repository.cs",
               "ViewState": "AgIAAEoAAAAAAAAAAAAswGIAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -287,11 +340,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "StaticContentService.cs",
-              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Services\\StaticContentService.cs",
+              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\Services\\StaticContentService.cs",
               "RelativeDocumentMoniker": "ShortURL.API\\Services\\StaticContentService.cs",
-              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Services\\StaticContentService.cs",
+              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\Services\\StaticContentService.cs",
               "RelativeToolTip": "ShortURL.API\\Services\\StaticContentService.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwBYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -299,11 +352,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "StaticContentRepository.cs",
-              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Repositories\\StaticContentRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\Repositories\\StaticContentRepository.cs",
               "RelativeDocumentMoniker": "ShortURL.API\\Repositories\\StaticContentRepository.cs",
-              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Repositories\\StaticContentRepository.cs",
+              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\Repositories\\StaticContentRepository.cs",
               "RelativeToolTip": "ShortURL.API\\Repositories\\StaticContentRepository.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -311,23 +364,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ShortUrlService.cs",
-              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Services\\ShortUrlService.cs",
-              "RelativeDocumentMoniker": "ShortURL.API\\Services\\ShortUrlService.cs",
-              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Services\\ShortUrlService.cs",
-              "RelativeToolTip": "ShortURL.API\\Services\\ShortUrlService.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAowFAAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T17:05:48.297Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "UserDto.cs",
-              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\DTOs\\UserDtos\\UserDto.cs",
+              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\DTOs\\UserDtos\\UserDto.cs",
               "RelativeDocumentMoniker": "ShortURL.API\\DTOs\\UserDtos\\UserDto.cs",
-              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\DTOs\\UserDtos\\UserDto.cs",
+              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\DTOs\\UserDtos\\UserDto.cs",
               "RelativeToolTip": "ShortURL.API\\DTOs\\UserDtos\\UserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -335,11 +376,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "StaticContent.cs",
-              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Domain\\Models\\StaticContent.cs",
+              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\Domain\\Models\\StaticContent.cs",
               "RelativeDocumentMoniker": "ShortURL.API\\Domain\\Models\\StaticContent.cs",
-              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Domain\\Models\\StaticContent.cs",
+              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\Domain\\Models\\StaticContent.cs",
               "RelativeToolTip": "ShortURL.API\\Domain\\Models\\StaticContent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -347,11 +388,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "ShortUrlRepository.cs",
-              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Repositories\\ShortUrlRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\Repositories\\ShortUrlRepository.cs",
               "RelativeDocumentMoniker": "ShortURL.API\\Repositories\\ShortUrlRepository.cs",
-              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Repositories\\ShortUrlRepository.cs",
+              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\Repositories\\ShortUrlRepository.cs",
               "RelativeToolTip": "ShortURL.API\\Repositories\\ShortUrlRepository.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -359,11 +400,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "IStaticContentRepository.cs",
-              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Repositories\\Interface\\IStaticContentRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\Repositories\\Interface\\IStaticContentRepository.cs",
               "RelativeDocumentMoniker": "ShortURL.API\\Repositories\\Interface\\IStaticContentRepository.cs",
-              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Repositories\\Interface\\IStaticContentRepository.cs",
+              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\Repositories\\Interface\\IStaticContentRepository.cs",
               "RelativeToolTip": "ShortURL.API\\Repositories\\Interface\\IStaticContentRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -371,11 +412,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "ShortUrlDto.cs",
-              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\DTOs\\ShortUrlDtos\\ShortUrlDto.cs",
+              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\DTOs\\ShortUrlDtos\\ShortUrlDto.cs",
               "RelativeDocumentMoniker": "ShortURL.API\\DTOs\\ShortUrlDtos\\ShortUrlDto.cs",
-              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\DTOs\\ShortUrlDtos\\ShortUrlDto.cs",
+              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\DTOs\\ShortUrlDtos\\ShortUrlDto.cs",
               "RelativeToolTip": "ShortURL.API\\DTOs\\ShortUrlDtos\\ShortUrlDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -383,11 +424,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "DeleteShortUrlDto.cs",
-              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\DTOs\\ShortUrlDtos\\DeleteShortUrlDto.cs",
+              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\DTOs\\ShortUrlDtos\\DeleteShortUrlDto.cs",
               "RelativeDocumentMoniker": "ShortURL.API\\DTOs\\ShortUrlDtos\\DeleteShortUrlDto.cs",
-              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\DTOs\\ShortUrlDtos\\DeleteShortUrlDto.cs",
+              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\DTOs\\ShortUrlDtos\\DeleteShortUrlDto.cs",
               "RelativeToolTip": "ShortURL.API\\DTOs\\ShortUrlDtos\\DeleteShortUrlDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -395,11 +436,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "ShortUrl.cs",
-              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Domain\\Models\\ShortUrl.cs",
+              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\Domain\\Models\\ShortUrl.cs",
               "RelativeDocumentMoniker": "ShortURL.API\\Domain\\Models\\ShortUrl.cs",
-              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Domain\\Models\\ShortUrl.cs",
+              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\Domain\\Models\\ShortUrl.cs",
               "RelativeToolTip": "ShortURL.API\\Domain\\Models\\ShortUrl.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -407,11 +448,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "CreateShortUrlDto.cs",
-              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\DTOs\\ShortUrlDtos\\CreateShortUrlDto.cs",
+              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\DTOs\\ShortUrlDtos\\CreateShortUrlDto.cs",
               "RelativeDocumentMoniker": "ShortURL.API\\DTOs\\ShortUrlDtos\\CreateShortUrlDto.cs",
-              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\DTOs\\ShortUrlDtos\\CreateShortUrlDto.cs",
+              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\DTOs\\ShortUrlDtos\\CreateShortUrlDto.cs",
               "RelativeToolTip": "ShortURL.API\\DTOs\\ShortUrlDtos\\CreateShortUrlDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -419,11 +460,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "MapperConfig.cs",
-              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\DTOs\\Configurations\\MapperConfig.cs",
+              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\DTOs\\Configurations\\MapperConfig.cs",
               "RelativeDocumentMoniker": "ShortURL.API\\DTOs\\Configurations\\MapperConfig.cs",
-              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\DTOs\\Configurations\\MapperConfig.cs",
+              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\DTOs\\Configurations\\MapperConfig.cs",
               "RelativeToolTip": "ShortURL.API\\DTOs\\Configurations\\MapperConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -431,11 +472,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Services\\AuthService.cs",
+              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "ShortURL.API\\Services\\AuthService.cs",
-              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\Services\\AuthService.cs",
               "RelativeToolTip": "ShortURL.API\\Services\\AuthService.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAQwDIAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -443,11 +484,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Program.cs",
+              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\Program.cs",
               "RelativeDocumentMoniker": "ShortURL.API\\Program.cs",
-              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Program.cs",
+              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\Program.cs",
               "RelativeToolTip": "ShortURL.API\\Program.cs",
               "ViewState": "AgIAAGcAAAAAAAAAAAAYwIMAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -455,11 +496,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "IShortUrlService.cs",
-              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Services\\Interface\\IShortUrlService.cs",
+              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\Services\\Interface\\IShortUrlService.cs",
               "RelativeDocumentMoniker": "ShortURL.API\\Services\\Interface\\IShortUrlService.cs",
-              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Services\\Interface\\IShortUrlService.cs",
+              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\Services\\Interface\\IShortUrlService.cs",
               "RelativeToolTip": "ShortURL.API\\Services\\Interface\\IShortUrlService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -467,11 +508,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "IStaticContentService.cs",
-              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Services\\Interface\\IStaticContentService.cs",
+              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\Services\\Interface\\IStaticContentService.cs",
               "RelativeDocumentMoniker": "ShortURL.API\\Services\\Interface\\IStaticContentService.cs",
-              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Services\\Interface\\IStaticContentService.cs",
+              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\Services\\Interface\\IStaticContentService.cs",
               "RelativeToolTip": "ShortURL.API\\Services\\Interface\\IStaticContentService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -479,11 +520,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "ViewRestrictedShortUrlDto.cs",
-              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\DTOs\\ShortUrlDtos\\ViewRestrictedShortUrlDto.cs",
+              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\DTOs\\ShortUrlDtos\\ViewRestrictedShortUrlDto.cs",
               "RelativeDocumentMoniker": "ShortURL.API\\DTOs\\ShortUrlDtos\\ViewRestrictedShortUrlDto.cs",
-              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\DTOs\\ShortUrlDtos\\ViewRestrictedShortUrlDto.cs",
+              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\DTOs\\ShortUrlDtos\\ViewRestrictedShortUrlDto.cs",
               "RelativeToolTip": "ShortURL.API\\DTOs\\ShortUrlDtos\\ViewRestrictedShortUrlDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -491,11 +532,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "ErrorResponce.cs",
-              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Exceptions\\Configurations\\ErrorResponce.cs",
+              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\Exceptions\\Configurations\\ErrorResponce.cs",
               "RelativeDocumentMoniker": "ShortURL.API\\Exceptions\\Configurations\\ErrorResponce.cs",
-              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Exceptions\\Configurations\\ErrorResponce.cs",
+              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\Exceptions\\Configurations\\ErrorResponce.cs",
               "RelativeToolTip": "ShortURL.API\\Exceptions\\Configurations\\ErrorResponce.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -503,11 +544,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Domain\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\Domain\\Models\\User.cs",
               "RelativeDocumentMoniker": "ShortURL.API\\Domain\\Models\\User.cs",
-              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Domain\\Models\\User.cs",
+              "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\URLsShortener\\RestAPI\\ShortURL.API\\ShortURL.API\\Domain\\Models\\User.cs",
               "RelativeToolTip": "ShortURL.API\\Domain\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -515,12 +556,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "20250410174047_fixOrigUrlLength.cs",
               "DocumentMoniker": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Migrations\\20250410174047_fixOrigUrlLength.cs",
-              "RelativeDocumentMoniker": "ShortURL.API\\Migrations\\20250410174047_fixOrigUrlLength.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\RestAPI\\ShortURL.API\\ShortURL.API\\Migrations\\20250410174047_fixOrigUrlLength.cs",
               "ToolTip": "C:\\Projects\\dotnet\\ShortURL\\RestAPI\\ShortURL.API\\ShortURL.API\\Migrations\\20250410174047_fixOrigUrlLength.cs",
-              "RelativeToolTip": "ShortURL.API\\Migrations\\20250410174047_fixOrigUrlLength.cs",
+              "RelativeToolTip": "..\\..\\..\\RestAPI\\ShortURL.API\\ShortURL.API\\Migrations\\20250410174047_fixOrigUrlLength.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwBMAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T17:40:48.121Z"

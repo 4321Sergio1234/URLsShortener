@@ -27,7 +27,7 @@ export default function StaticContent() {
                     rows={15}
                 />
 
-                {(userData && userData.isLogin) && (
+                {(userData && userData.isAdmin) && (
                     <button type="submit" className={classes.saveButton}>
                         Зберегти зміни
                     </button>
