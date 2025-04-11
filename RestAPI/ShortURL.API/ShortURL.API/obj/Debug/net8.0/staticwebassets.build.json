@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Mi22A/GBVAjkByhsoPfhHElgCVQOxhLRy8IOhB8h1NM=",
+  "Source": "ShortURL.API",
+  "BasePath": "_content/ShortURL.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

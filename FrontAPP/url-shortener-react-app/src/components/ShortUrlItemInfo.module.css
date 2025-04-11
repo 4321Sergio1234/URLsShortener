@@ -1,0 +1,143 @@
+.container {
+    background: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    padding: 1.5rem;
+    position: relative;
+    margin: 1rem 0;
+}
+
+.urlGroup {
+    margin-bottom: 1.5rem;
+}
+
+.field {
+    margin-bottom: 1rem;
+}
+
+.label {
+    display: block;
+    font-size: 0.9rem;
+    color: #666;
+    margin-bottom: 0.3rem;
+}
+
+.value {
+    color: #2563eb;
+    text-decoration: none;
+    word-break: break-all;
+    display: inline-block;
+    padding: 0.3rem 0;
+    border-bottom: 1px solid transparent;
+    transition: all 0.2s ease;
+}
+
+.value:hover {
+    border-bottom-color: #2563eb;
+    opacity: 0.9;
+}
+
+.metaGroup {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    gap: 1rem;
+    border-top: 1px solid #eee;
+    padding-top: 1rem;
+}
+
+.metaItem {
+    background: #f8fafc;
+    padding: 0.5rem;
+    border-radius: 6px;
+}
+
+.metaLabel {
+    display: block;
+    font-size: 0.8rem;
+    color: #666;
+}
+
+.metaValue {
+    font-size: 0.9rem;
+    color: #333;
+    font-weight: 500;
+}
+
+.deleteButton {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    background: none;
+    border: none;
+    color: #dc2626;
+    cursor: pointer;
+    padding: 0.5rem;
+    display: flex;
+    align-items: center;
+    gap: 0.3rem;
+    transition: opacity 0.2s;
+}
+
+.deleteButton:hover {
+    opacity: 0.8;
+}
+
+.actions {
+    display: flex;
+    gap: 1rem;
+    justify-content: flex-end;
+    margin-top: 1.5rem;
+}
+
+.deleteButton {
+    background: none;
+    border: 1px solid #dc2626;
+    color: #dc2626;
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.deleteButton:hover {
+    background-color: #fee2e2;
+}
+
+.backButton {
+    background: none;
+    border: 1px solid #2563eb;
+    color: #2563eb;
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    text-decoration: none;
+    transition: all 0.2s;
+}
+
+.backButton:hover {
+    background-color: #dbeafe;
+}
+
+@media (max-width: 480px) {
+    .actions {
+        flex-direction: column;
+    }
+    
+    .deleteButton,
+    .backButton {
+        width: 100%;
+        text-align: center;
+    }
+}
+
+@media (max-width: 480px) {
+    .container {
+        padding: 1rem;
+    }
+    
+    .deleteButton {
+        position: static;
+        margin-top: 1rem;
+        justify-content: flex-end;
+        width: 100%;
+    }
+}
